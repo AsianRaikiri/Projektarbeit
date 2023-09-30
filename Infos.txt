@@ -1,0 +1,21 @@
+Mit David Simon und Vladislav zusammen das Thema bearbeiten.
+
+Treffen jeden Mittwoch im dritten Block (12 Uhr) bis um halb 2 
+
+Bis nächsten Mittwoch Idee haben was gemacht werden soll.
+Übernächste Woche ist der erste gemeinsame Termin mit ENBW
+
+Kurze Präsentation was gemacht werden soll bis nächstes Mal
+
+Offene Fragen für Mittwoch:
+Welche Daten sollen wir alles haben (nur PV-Anlagen und international?)
+Wie genau sollen die Daten aufbereitet werden.
+Welche Daten werden tatsächlich gebraucht? 
+
+Vorstellung des Projekts: 
+Wir laden Daten der Smard API runter für >100MW
+Wir laden Daten der Marktstammdaten API runter für mehr Details und weniger Erzeugungsmenge
+Dann packen wir das in eine WebApp in einer Chart zum drin filtern
+Die Chart kann man nach bestimmten Parametern wie Ort, Größe, Anbieterart (Privat/Großerzeuger)
+Export/Download als CSV oder JSON
+Auch Privatanbieter oder nur große Erzeuger
